@@ -8,8 +8,8 @@
   "server": {
     "ip": "aianiokok.aternos.me",
     "port": 23468,
-    "version": "26.2",
-    "try-creative": false
+    "version": "26.2"
+
   },
   "position": {
     "enabled": true,
