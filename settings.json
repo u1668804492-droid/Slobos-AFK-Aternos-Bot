@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aianiokok.aternos.me",
+    "ip": "aianiokok.aternos.me:23468",
     "port": 23468,
     "version": "",
     "try-creative": false
