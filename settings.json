@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "aianiokok.aternos.me",
-    "port": 23468,
+    "port":23468,
     "version": "26.2",
     "try-creative": false
   },
